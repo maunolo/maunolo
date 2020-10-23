@@ -4,7 +4,7 @@
 
 ### I'm a Deleveloper
 - Currently working on [James Delivery][james_delivery]!
-- Side project: [Stream Music Player][stream_music_player]! <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+- Side project: [Stream Music Player][stream_music_player]! <img align="right" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 
 # (Portuguese version)
 
@@ -12,7 +12,7 @@
 
 ### Eu sou um desenvolvedor
 - Trabalhando atualmente na [James Delivery][james_delivery]!
-- Projeto paralelo: [Stream Music Player][stream_music_player]! <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+- Projeto paralelo: [Stream Music Player][stream_music_player]! <img align="right" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 
 <br>
 <br>
