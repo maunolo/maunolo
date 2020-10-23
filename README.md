@@ -4,7 +4,7 @@
 
 ### I'm a Deleveloper
 - Currently working on [James Delivery][james_delivery]!
-- Currently working on a [Stream Music Player][stream_music_player]!
+- Side project: [Stream Music Player][stream_music_player]!
 
 # (Portuguese version)
 
@@ -12,7 +12,7 @@
 
 ### Eu sou um desenvolvedor
 - Trabalhando atualmente na [James Delivery][james_delivery]!
-- Trabalhando atualmente em um [Stream Music Player][stream_music_player]!
+- Projeto paralelo: [Stream Music Player][stream_music_player]!
 
 <br>
 <br>
