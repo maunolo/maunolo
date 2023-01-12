@@ -1,11 +1,11 @@
-# (English version)
+#### (US)
 
 ## Hi There, I'm Mauricio (Maunolo)
 
 ### I'm a Deleveloper
 - Currently working on [Iseatz][iseatz]!
 
-# (Portuguese version)
+#### (pt-BR)
 
 ## Eae blz? Meu nome é Mauricio (Maunolo)
 
