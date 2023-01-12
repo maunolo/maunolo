@@ -1,18 +1,9 @@
-#### (US)
+# Maunolo (Mauricio Nogueira Lopes)
 
-## Hi There, I'm Mauricio (Maunolo)
+I am a software developer with experience in a variety of programming languages, currently focused on Ruby for backend development and React with TypeScript for front-end. I have a strong understanding of software design principles and am a team player. I am also currently studying Rust and looking forward to incorporating it into my skill set.
 
-### I'm a Deleveloper
-- Currently working on [Iseatz][iseatz]!
+You can check [maunolo.dev](maunolo.dev) to see a summary of my skills and the companies I have worked for. Additionally, my [Github](https://github.com/maunolo) repositories also provide examples of my work.
 
-#### (pt-BR)
+And connect with me on [LinkedIn](https://www.linkedin.com/in/mauricio-lopes-046b86158/)
 
-## Eae blz? Meu nome é Mauricio (Maunolo)
-
-### Eu sou um desenvolvedor
-- Trabalhando atualmente na [Iseatz][iseatz]!
-
-<br>
-<br>
-
-[iseatz]: https://iseatz.com
+Feel free to reach out to me for any inquiry.
